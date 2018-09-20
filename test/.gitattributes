@@ -1,0 +1,25 @@
+*           text=auto
+*.txt		text
+*.sh		text eol=lf
+*.jpg		-text
+*.class		binary
+
+# These are text files and should be normalized
+
+*.css			text
+*.txt           text
+*.java          text
+*.js            text
+*.html          text
+*.json          text
+*.xml           text
+*.properties    text
+
+
+# These are binary files and should be left untouched 
+*.gif		binary
+*.jar		binary
+*.war		binary
+*.png       binary
+*.ear       binary
+*.jpg       binary
