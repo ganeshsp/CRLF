@@ -1,0 +1,12 @@
+*           text=auto
+
+*.sh		text eol=crlf
+
+
+# These are binary files and should be left untouched 
+*.gif		binary
+*.jar		binary
+*.war		binary
+*.png       binary
+*.ear       binary
+*.jpg       binary
