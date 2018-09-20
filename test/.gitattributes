@@ -1,6 +1,6 @@
 *           text=auto
 *.txt		text
-*.sh		text eol=lf
+*.sh		text
 *.jpg		-text
 *.class		binary
 
