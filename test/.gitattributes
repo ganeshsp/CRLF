@@ -1,6 +1,6 @@
 *           text=auto
 
-*.sh		text eol=crlf
+*.sh		text
 
 
 # These are binary files and should be left untouched 
